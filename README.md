@@ -28,3 +28,34 @@ fn main() {
 }
 
 ```
+
+<img src="https://user-images.githubusercontent.com/47983254/110720703-d07cbc80-81ed-11eb-8009-a0460b0d2d46.png" width="100">
+
+```cpp
+#include <iostream>
+#include <vector>
+
+// Just... Don't.
+// using namespace std;
+
+int main () {
+    // Flag representing the self-teaching capabilities of the developer
+    bool self_taught = true;
+
+    // Extensible list of features implemented in an unreleased game engine prototype
+    std::vector<std::string> features;
+
+    features.push_back("* Entity-Component module");
+    features.push_back("* Component data loading from JSON files");
+    features.push_back("* Multi-camera setups for split screen");
+    features.push_back("* Spritesheet and animation handling");
+    
+    std::cout << "Features:" << std::endl;
+
+    for (auto &feature : features) {
+        std::cout << feature << std::endl;
+    }
+
+    return 0;
+}
+```
