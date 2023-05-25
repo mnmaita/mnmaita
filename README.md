@@ -1,8 +1,3 @@
-|||
-| --- | :-- |
-|<img src="https://user-images.githubusercontent.com/47983254/110724204-163c8380-81f4-11eb-8bf5-1d45694997ae.png" width="200">| In a love/hate relationship (currently in the "hate" side of it 😆). Worked a lot with Java in university, where I made a multiplayer game based on a client-server architecture with one of the most talented and dedicated engineers that I know. Other cool projects include a code analysis tool, various sorting algorithms and a IoT alarm system. |
-|||
-
 <img name="rust" src="https://user-images.githubusercontent.com/47983254/110720710-d2df1680-81ed-11eb-8fd0-7b940e7e7412.png" width="100">
   
 ```rust
@@ -104,4 +99,26 @@ const Container = styled.div`
     flex-direction: column;
     justify-content: center;
 `;
+```
+
+<br>
+
+---
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/47983254/110724204-163c8380-81f4-11eb-8bf5-1d45694997ae.png" width="100">
+
+```java
+class OverComplicatedWayToPrintJavaExperienceApp {
+    public static void main(String[] args) {
+        System.out.println("Currently, not focusing on Java development nor pure OOP languages.");
+
+        System.out.println("University projects developed in Java:");
+        System.out.println("* Multiplayer PacMan clone, supporting up to 4 players.");
+        System.out.println("* Code analysis tools to calculate complexity, LOC, etc.");
+        System.out.println("* Sorting algorithms.");
+        System.out.println("* IOT home alarm system.");
+    }
+}
 ```
