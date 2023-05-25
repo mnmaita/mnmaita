@@ -1,6 +1,5 @@
 |||
 | --- | :-- |
-| <img src="https://user-images.githubusercontent.com/47983254/110720725-d5da0700-81ed-11eb-81cf-4714d22494ee.png" width="200"> | Working with TypeScript daily, building awesome products for the web browser. Leveraging libraries like `react`, `styled-components` and `redux` (among others) to shape the frontend bits of our organization. Typescript gave me the flexibility of working with JavaScript while keeping compile-time typechecking. |
 |<img src="https://user-images.githubusercontent.com/47983254/110724204-163c8380-81f4-11eb-8bf5-1d45694997ae.png" width="200">| In a love/hate relationship (currently in the "hate" side of it 😆). Worked a lot with Java in university, where I made a multiplayer game based on a client-server architecture with one of the most talented and dedicated engineers that I know. Other cool projects include a code analysis tool, various sorting algorithms and a IoT alarm system. |
 |||
 
@@ -28,12 +27,6 @@ fn main() {
 }
 
 ```
-
-<br>
-
----
-
-<br>
 
 <img src="https://user-images.githubusercontent.com/47983254/110720703-d07cbc80-81ed-11eb-8009-a0460b0d2d46.png" width="100">
 
@@ -64,4 +57,39 @@ int main () {
 
     return 0;
 }
+```
+
+<img src="https://user-images.githubusercontent.com/47983254/110720725-d5da0700-81ed-11eb-81cf-4714d22494ee.png" width="100">
+
+```tsx
+// Now using the newer React JSX transform!
+import type { FunctionComponent } from "react";
+// Redux (and Redux Sagas) for global store management
+import * as redux from "redux";
+// CSS in JS made easy with styled-components
+import styled from "styled-components";
+
+export const TypeScriptExperience: FunctionComponent = () => {
+    return (
+        <Container>
+            <p>
+                Using React to build web applications for the modern web browser.
+            </p>
+            <p>
+                Adding a sprinkle of TypeScript to mix JavaScript's flexibility
+                with compile-time type checking.
+            </p>
+            <p>
+                Using Next.js for an upcoming personal project.
+            </p>
+        </Container>
+    );
+}
+
+const Container = styled.div`
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+`;
 ```
