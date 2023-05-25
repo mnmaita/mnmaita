@@ -29,6 +29,12 @@ fn main() {
 
 ```
 
+<br>
+
+---
+
+<br>
+
 <img src="https://user-images.githubusercontent.com/47983254/110720703-d07cbc80-81ed-11eb-8009-a0460b0d2d46.png" width="100">
 
 ```cpp
