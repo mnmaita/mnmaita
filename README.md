@@ -1,124 +1,45 @@
-<img name="rust" src="https://user-images.githubusercontent.com/47983254/110720710-d2df1680-81ed-11eb-8fd0-7b940e7e7412.png" width="100">
-  
-```rust
-// Favorite game development related project and game engine
-use bevy::*;
-// External crates used for game development purposes
-use ggez::*;
-use legion::*;
-use sdl2::*;
+# Bienvenidos, Welcome, Benvenuti, Witamy!
 
-fn main() {
-    // Sets the year for Rust learning initialization
-    let start_year = 2019;
-    // Stores a list of projects (both finished and unfinished)
-    let project_list = Vec::from([
-        "Rust-based blockchain prototype",
-        "Dungeon crawling action game released on itch.io",
-        "Unreleased cowboy platform/arcade/board game",
-        "Untitled dream game",
-    ]);
-    println!("RIIR or bust.");
-}
+My name is Martín Maita. I'm a Software Engineer, currently focused on Frontend Development.
 
-```
+## I've worked on:
+🎓 University projects like:
 
-<br>
+- Classic videogame clones like Donkey Kong and Pac-Man.
+- a Home Security IOT System prototype.
+- a Code Analysis tool.
+- a Source Code Compiler for a Custom Language.
+- a Virtual Reality Cycling Simulation App.
 
----
+📈 ERP software customization.
 
-<br>
+🌩️ Salesforce CRM Consulting and Development.
 
-<img src="https://user-images.githubusercontent.com/47983254/110720703-d07cbc80-81ed-11eb-8009-a0460b0d2d46.png" width="100">
+⚛️ Frontend Development with React.js.
 
-```cpp
-#include <iostream>
-#include <vector>
+## Videogames I've co-created:
+🏰 [Tower of Insight](https://trvefenris.itch.io/tower-of-insight) (Rust, GGEZ, Legion)
 
-// Just... Don't.
-// using namespace std;
+🧉 [Yerba Mutant](https://mnmaita.itch.io/yerba-mutant) (Unreal Engine)
 
-int main () {
-    // Flag representing the self-teaching capabilities of the developer
-    bool self_taught = true;
+📜 [Outclassed](https://mnmaita.itch.io/outclassed) (Bevy)
 
-    // Extensible list of features implemented in an unreleased game engine prototype
-    std::vector<std::string> features;
+🐲 [Dragonskale](https://mnmaita.itch.io/dragonskale) (Bevy)
 
-    features.push_back("* Entity-Component module");
-    features.push_back("* Component data loading from JSON files");
-    features.push_back("* Multi-camera setups for split screen");
-    features.push_back("* Spritesheet and animation handling");
-    
-    std::cout << "Features:" << std::endl;
+### Some of the things I love:
 
-    for (auto &feature : features) {
-        std::cout << feature << std::endl;
-    }
-
-    return 0;
-}
-```
-
-<br>
-
----
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/47983254/110720725-d5da0700-81ed-11eb-81cf-4714d22494ee.png" width="100">
-
-```tsx
-// Now using the newer React JSX transform!
-import type { FunctionComponent } from "react";
-// Redux (and Redux Sagas) for global store management
-import * as redux from "redux";
-// CSS in JS made easy with styled-components
-import styled from "styled-components";
-
-export const TypeScriptExperience: FunctionComponent = () => {
-    return (
-        <Container>
-            <p>
-                Using React to build web applications for the modern web browser.
-            </p>
-            <p>
-                Adding a sprinkle of TypeScript to mix JavaScript's flexibility
-                with compile-time type checking.
-            </p>
-            <p>
-                Using Next.js for an upcoming personal project.
-            </p>
-        </Container>
-    );
-}
-
-const Container = styled.div`
-    align-items: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-`;
-```
-
-<br>
-
----
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/47983254/110724204-163c8380-81f4-11eb-8bf5-1d45694997ae.png" width="100">
-
-```java
-class OverComplicatedWayToPrintJavaExperienceApp {
-    public static void main(String[] args) {
-        System.out.println("Currently, not focusing on Java development nor pure OOP languages.");
-
-        System.out.println("University projects developed in Java:");
-        System.out.println("* Multiplayer PacMan clone, supporting up to 4 players.");
-        System.out.println("* Code analysis tools to calculate complexity, LOC, etc.");
-        System.out.println("* Sorting algorithms.");
-        System.out.println("* IOT home alarm system.");
-    }
-}
-```
+|
+👨🏻‍💻 Game Development
+|
+🕹️ Videogames
+|
+⛰️ Nature
+|
+🍲 Cooking
+|
+✍🏻 Writing
+|
+🎲 Tabletop RPGs
+|
+🥁 Drumming
+|
