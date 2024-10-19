@@ -11,7 +11,7 @@ My name is Martín Maita. I'm a Software Engineer, currently focused on Frontend
 
 🗂️ Several projects that include:
 
-- Classic videogame clones like Donkey Kong and [Pac-Man] (C and Java).
+- Classic videogame clones like Donkey Kong and [Pac-Man] (C and Java). Both multiplayer!
 - a Home Security IOT System prototype (Java).
 - a Code Analysis tool (Java).
 - a [Source Code Compiler] for a Custom Language (C, C++ and Assembly).
