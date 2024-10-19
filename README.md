@@ -11,13 +11,13 @@ My name is Martín Maita. I'm a Software Engineer, currently focused on Frontend
 
 🗂️ Several projects that include:
 
-- Classic videogame clones like Donkey Kong and [Pac-Man].
-- a Home Security IOT System prototype.
-- a Code Analysis tool.
-- a [Source Code Compiler] for a Custom Language.
-- a Virtual Reality Cycling Simulation App.
-- [TrveTerm], a terminal-themed website.
-- Some simple Bevy plugins aimed at Game Jam development, like [trve_bevy_font] and [trve_bevy_image].
+- Classic videogame clones like Donkey Kong and [Pac-Man] (C and Java).
+- a Home Security IOT System prototype (Java).
+- a Code Analysis tool (Java).
+- a [Source Code Compiler] for a Custom Language (C, C++ and Assembly).
+- a Virtual Reality Cycling Simulation App (Unity).
+- [TrveTerm], a terminal-themed website (TypeScript).
+- Some simple Bevy plugins aimed at Game Jam development, like [trve_bevy_font] and [trve_bevy_image] (Rust).
 
 ## Videogames I've co-created:
 👩🏻‍💻 [NetRise] (Bevy)
