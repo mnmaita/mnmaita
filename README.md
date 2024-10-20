@@ -1,11 +1,19 @@
-# Bienvenidos, Welcome, Benvenuti, Witamy!
+# Bienvenidos, Welcome, Benvenuti, Witam!
 
-My name is Martín Maita. I'm a Software Engineer, currently focused on Frontend Development.
+My name is Martín Maita. I'm a Software Engineer, currently focused on Game Development.
 
-## I've worked on:
-📈 ERP software customization.
+## Videogames I've co-created:
+👩🏻‍💻 [NetRise] (Bevy)
 
-🌩️ Salesforce CRM Consulting and Development.
+🐲 [Dragonskale] (Bevy)
+
+📜 [Outclassed] (Bevy)
+
+🧉 [Yerba Mutant] (Unreal Engine)
+
+🏰 [Tower of Insight] (Rust, GGEZ, Legion)
+
+## I've also worked on:
 
 ⚛️ Frontend Development with React.js.
 
@@ -19,16 +27,9 @@ My name is Martín Maita. I'm a Software Engineer, currently focused on Frontend
 - [TrveTerm], a terminal-themed website (TypeScript).
 - Some simple Bevy plugins aimed at Game Jam development, like [trve_bevy_font] and [trve_bevy_image] (Rust).
 
-## Videogames I've co-created:
-👩🏻‍💻 [NetRise] (Bevy)
+🌩️ Salesforce CRM Consulting and Development.
 
-🐲 [Dragonskale] (Bevy)
-
-📜 [Outclassed] (Bevy)
-
-🧉 [Yerba Mutant] (Unreal Engine)
-
-🏰 [Tower of Insight] (Rust, GGEZ, Legion)
+📈 ERP software customization.
 
 ### Some of the things I love:
 
