@@ -1,6 +1,6 @@
 # Bienvenidos, Welcome, Benvenuti, Witam!
 
-My name is Martín Maita. I'm a Software Engineer, currently focused on Game Development.
+My name is Martín Maita. I'm a Software Engineer, currently focused on Frontend and Game Development.
 
 ## Videogames I've co-created:
 👩🏻‍💻 [NetRise] (Bevy)
