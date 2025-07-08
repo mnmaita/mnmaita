@@ -29,7 +29,7 @@ My name is Martín Maita. I'm a Software Engineer, currently focused on Frontend
 
 🌩️ Salesforce CRM Consulting and Development.
 
-📈 ERP software customization.
+📈 ERP Software Development and Customization.
 
 ### Some of the things I love:
 
