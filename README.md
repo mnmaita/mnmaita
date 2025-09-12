@@ -3,6 +3,8 @@
 My name is Martín Maita. I'm a Software Engineer, currently focused on Frontend and Rust Game Development.
 
 ## Videogames I've co-created:
+⛸️ [LoodLoop] (Bevy)
+
 👩🏻‍💻 [NetRise] (Bevy)
 
 🐲 [Dragonskale] (Bevy)
@@ -54,6 +56,7 @@ My name is Martín Maita. I'm a Software Engineer, currently focused on Frontend
 [TrveTerm]: <https://trveterm.mnmaita.com/>
 [trve_bevy_font]: <https://github.com/mnmaita/trve_bevy_font>
 [trve_bevy_image]: <https://github.com/mnmaita/trve_bevy_image>
+[LoodLoop]: <https://mnmaita.itch.io/loodloop>
 [NetRise]: <https://mnmaita.itch.io/netrise>
 [Dragonskale]: <https://mnmaita.itch.io/dragonskale>
 [Outclassed]: <https://mnmaita.itch.io/outclassed>
