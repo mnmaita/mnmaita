@@ -1,6 +1,6 @@
 # Bienvenidos, Welcome, Benvenuti, Witam!
 
-My name is Martín Maita. I'm a Software Engineer, currently focused on Frontend and Rust Game Development.
+My name is Martín Maita. I'm a Software Engineer, mainly focused in React.js Frontend Development, and Game Developer.
 
 ## Videogames I've co-created:
 🧛 [Count's Dawn] (Bevy)
@@ -19,19 +19,21 @@ My name is Martín Maita. I'm a Software Engineer, currently focused on Frontend
 
 🏰 [Tower of Insight] (Rust, GGEZ, Legion)
 
-## I've also worked on:
+## Other projects I've worked on:
 
-⚛️ Frontend Development with React.js.
+🎮 Classic videogame clones like Donkey Kong and [Pac-Man] (C and Java). Both multiplayer!
 
-🗂️ Several projects that include:
+🛜 a Home Security IOT System prototype (Java).
 
-- Classic videogame clones like Donkey Kong and [Pac-Man] (C and Java). Both multiplayer!
-- a Home Security IOT System prototype (Java).
-- a Code Analysis tool (Java).
-- a [Source Code Compiler] for a Custom Language (C, C++ and Assembly).
-- a Virtual Reality Cycling Simulation App (Unity).
-- [TrveTerm], a terminal-themed website (TypeScript).
-- Bevy tools and plugins like [trve_bevy], [trve_bevy_font] and [trve_bevy_image] (Rust).
+👨🏻‍💻 a Code Analysis tool (Java).
+
+🛠️ a [Source Code Compiler] for a Custom Language (C, C++ and Assembly).
+
+🚵 a Virtual Reality Cycling Simulation App (Unity).
+
+`>_` [TrveTerm], a terminal-themed website (TypeScript).
+
+🎮+🛠️ Bevy tools and plugins like [trve_bevy], [trve_bevy_font] and [trve_bevy_image] (Rust).
 
 🌩️ Salesforce CRM Consulting and Development.
 
@@ -39,7 +41,6 @@ My name is Martín Maita. I'm a Software Engineer, currently focused on Frontend
 
 ### Some of the things I love:
 
-|
 👨🏻‍💻 Game Development
 |
 🕹️ Videogames
@@ -53,7 +54,6 @@ My name is Martín Maita. I'm a Software Engineer, currently focused on Frontend
 🎲 Tabletop RPGs
 |
 🥁 Drumming
-|
 
 [Pac-Man]: <https://github.com/mnmaita/UNLAM.PacMan.Grupo4> "Pac-Man Multiplayer"
 [Source Code Compiler]: <https://github.com/mnmaita/unlam-lyc-compiler>
